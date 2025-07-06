@@ -34,9 +34,9 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : #"https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"https://orcid.org/0009-0008-7268-230X"
   semantic         : # URL
   pubmed           : 
   researchgate     : # URL
@@ -59,7 +59,7 @@ author:
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : # Username
+  instagram        : "@robinie168"# Username
   lastfm           : # Username
   linkedin         : # Username
   mastodon         : # URL
@@ -262,27 +262,27 @@ defaults:
   # _publications
   - scope:
       path: ""
-      type: publications
+      type: research
     values:
       layout: single
       author_profile: true
       share: true
       comments: true
   # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
+  #- scope:
+   #   path: ""
+    #  type: portfolio
+    #values:
+     # layout: single
+     # author_profile: true
+     # share: true
+     # comment: true
   # _talks
   - scope:
       path: ""
-      type: talks
+      type: cv
     values:
-      layout: talk
+      layout: single
       author_profile: true
       share: true
 
