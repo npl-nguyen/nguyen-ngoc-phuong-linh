@@ -25,7 +25,7 @@ author:
   avatar           : "profile.jpg"
   name             : #"Ngọc Linh"
   pronouns         : # example: "she/her"  
-  bio              : "PhD student in Economics"
+  bio              : #"PhD student in Economics"
   location         : "Việt Nam - US"
   employer         : "Cornell University"
   uri              : # URL
