@@ -10,4 +10,4 @@ location: "Ithaca, New York, US"
 
 TA note: 
 
-TA for Professor Julieta Caunedo
+Teaching assistant for Professor Julieta Caunedo.
