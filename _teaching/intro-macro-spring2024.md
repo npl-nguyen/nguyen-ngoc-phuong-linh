@@ -10,8 +10,4 @@ location: "Ithaca, New York, US"
 
 TA note: 
 
-Introduction to Macroeconomics, Spring 2024
-
-Intermediate Microeconomic Theory, Spring 2025
-
-Intermediate Macroeconomic Theory, Fall 2024
+Teaching assistant for Terry Alexander, Ph.D.
