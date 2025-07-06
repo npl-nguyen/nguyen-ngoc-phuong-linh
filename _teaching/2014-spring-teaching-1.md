@@ -1,9 +1,9 @@
 ---
 title: "Introduction to Microeconomics (TA for fall 2023)"
 collection: teaching
-type: "Undergraduate course"
+type: "Teaching assistant, Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "Cornell University, Deparment of Economics"
+venue: "Cornell University"
 date: 2023-1-1
 location: "Ithaca, New York, US"
 ---
