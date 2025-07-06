@@ -10,3 +10,4 @@ location: "Ithaca, New York, US"
 
 TA note: 
 
+Teaching assistant for Stephanie Thomas, Ph.D.
