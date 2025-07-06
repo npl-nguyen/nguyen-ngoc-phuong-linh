@@ -25,11 +25,11 @@ author:
   avatar           : "profile.jpg"
   name             : "Ngọc Linh"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "PhD student in Economics. Interested in macroeconomics, firm dynamics, and public policy."
+  location         : "Việt Nam - US"
+  employer         : "Cornell University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "nn268@cornell.edu" 
 
   # Academic websites
   academia         : # URL
