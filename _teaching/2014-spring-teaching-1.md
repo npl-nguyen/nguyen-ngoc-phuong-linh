@@ -1,5 +1,5 @@
 ---
-title: "Introduction to Microeconomics (TA)"
+title: "Introduction to Microeconomics (TA for fall 2023)"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
@@ -8,7 +8,7 @@ date: 2023-1-1
 location: "Ithaca, New York, US"
 ---
 
-Fall 2023
+TA note: 
 
 Introduction to Macroeconomics, Spring 2024
 
