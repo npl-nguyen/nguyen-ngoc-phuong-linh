@@ -1,14 +1,20 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching Assistant"
 collection: teaching
-type: "Undergraduate course"
+type: "Undergraduate courses"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "Cornell University, Deparment of Economics"
+date: 2024-2025
+location: "Ithaca, New York, US"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Introduction to Microeconomics, Fall 2023
+
+Introduction to Macroeconomics, Spring 2024
+
+Intermediate Microeconomic Theory, Spring 2025
+
+Intermediate Macroeconomic Theory, Fall 2024
 
 Heading 1
 ======
