@@ -59,7 +59,7 @@ author:
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : "@robinie168"# Username
+  instagram        : "robinie168"# Username
   lastfm           : # Username
   linkedin         : # Username
   mastodon         : # URL
@@ -278,13 +278,13 @@ defaults:
      # share: true
      # comment: true
   # _talks
-  - scope:
-      path: ""
-      type: cv
-    values:
-      layout: single
-      author_profile: true
-      share: true
+ # - scope:
+  #    path: ""
+   #   type: talks
+   # values:
+    #  layout: talks
+     # author_profile: true
+     # share: true
 
 
 # Sass/SCSS
