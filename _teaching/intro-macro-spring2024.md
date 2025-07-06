@@ -1,5 +1,5 @@
 ---
-title: "Introduction to Macroeconomics (TA for spring 2023)"
+title: "Introduction to Macroeconomics (TA for spring 2024)"
 collection: teaching
 type: "Teaching assistant, Undergraduate course"
 permalink: /teaching/intro-macro-spring2024
