@@ -1,8 +1,8 @@
 ---
-title: "Introduction to Microeconomics (TA for fall 2023)"
+title: "Introduction to Macroeconomics (TA for spring 2023)"
 collection: teaching
 type: "Teaching assistant, Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/intro-macro-spring2024
 venue: "Cornell University"
 date: 2023-1-1
 location: "Ithaca, New York, US"
