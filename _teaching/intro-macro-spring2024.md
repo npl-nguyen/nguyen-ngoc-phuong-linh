@@ -4,7 +4,7 @@ collection: teaching
 type: "Teaching assistant, Undergraduate course"
 permalink: /teaching/intro-macro-spring2024
 venue: "Cornell University"
-date: 2023-1-1
+date: 2024-1-1
 location: "Ithaca, New York, US"
 ---
 
