@@ -1,8 +1,8 @@
 ---
-title: "Intermediate Microeconomic Theory (TA for spring 2025)"
+title: "Intermediate Macroeconomic Theory (TA for fall 2024)"
 collection: teaching
 type: "Teaching assistant, Undergraduate course"
-permalink: /teaching/2014-spring-teaching-2
+permalink: /teaching/inter-macro-fall2024
 venue: "Cornell University"
 date: 2024-1-1
 location: "Ithaca, New York, US"
@@ -10,5 +10,4 @@ location: "Ithaca, New York, US"
 
 TA note: 
 
-
-Intermediate Macroeconomic Theory, Fall 2024
+TA for Professor Julieta Caunedo
