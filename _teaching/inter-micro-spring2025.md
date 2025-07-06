@@ -9,3 +9,5 @@ location: "Ithaca, New York, US"
 ---
 
 TA note: 
+
+Teaching assistant for Professor Philipp Kircher.
