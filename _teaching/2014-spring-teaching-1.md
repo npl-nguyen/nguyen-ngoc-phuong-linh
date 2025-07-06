@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate courses"
 permalink: /teaching/2014-spring-teaching-1
 venue: "Cornell University, Deparment of Economics"
-date: "2024-2025"
+date: 2025-01-01
 location: "Ithaca, New York, US"
 ---
 
