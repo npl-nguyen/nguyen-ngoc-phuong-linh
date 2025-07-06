@@ -23,7 +23,7 @@ repository               : "npl-nguyen/npl-nguyen.github.io"
 author:
   # Biographic information
   avatar           : "profile.jpg"
-  name             : "Ngọc Linh"
+  name             : #"Ngọc Linh"
   pronouns         : # example: "she/her"  
   bio              : "PhD student in Economics"
   location         : "Việt Nam - US"
