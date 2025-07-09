@@ -10,4 +10,4 @@ location: "Ithaca, New York, US"
 
 TA note: [part1](../pdfs/intro-micro-ta-note-part1.pdf), [part2](../pdfs/intro-micro-ta-note-part2.pdf)
 
-Teaching assistant for Stephanie Thomas, Ph.D.
+Teaching assistant for Stephanie Thomas, Ph.D. TA notes exclude actual course practice questions, exams, exam solutions, and other TA's intellectual property.
