@@ -10,4 +10,4 @@ location: "Ithaca, New York, US"
 
 TA note: [consumer](../pdfs/inter-micro-ta-note-consumer.pdf), [firm](../pdfs/inter-micro-ta-note-firm.pdf), [risk](../pdfs/inter-micro-ta-note-risk.pdf)
 
-Teaching assistant for Professor Philipp Kircher.
+Teaching assistant for Professor Philipp Kircher. TA notes exclude actual course practice questions, exams, exam solutions, and other TA's intellectual property.
