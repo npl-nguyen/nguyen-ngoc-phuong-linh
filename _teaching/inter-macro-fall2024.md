@@ -10,4 +10,4 @@ location: "Ithaca, New York, US"
 
 TA note: [full](../pdfs/inter-macro-ta-note-full.pdf)
 
-Teaching assistant for Professor Julieta Caunedo.
+Teaching assistant for Professor Julieta Caunedo. TA notes exclude actual course practice questions, exams, exam solutions, and other TA's intellectual property.
