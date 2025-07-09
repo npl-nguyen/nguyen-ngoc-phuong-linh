@@ -8,6 +8,6 @@ date: 2025-1-1
 location: "Ithaca, New York, US"
 ---
 
-TA note: 
+TA notes: [part_1](../_pdfs/intro-micro-ta-note-part1.pdf)
 
 Teaching assistant for Professor Philipp Kircher.
