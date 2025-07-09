@@ -8,6 +8,6 @@ date: 2023-1-1
 location: "Ithaca, New York, US"
 ---
 
-TA note: 
+TA note: [part1](../pdfs/intro-micro-ta-note-part1.pdf)
 
 Teaching assistant for Stephanie Thomas, Ph.D.
