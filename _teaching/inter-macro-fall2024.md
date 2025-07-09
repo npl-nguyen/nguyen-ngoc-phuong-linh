@@ -8,6 +8,6 @@ date: 2024-2-2
 location: "Ithaca, New York, US"
 ---
 
-TA note: 
+TA note: [full](../pdfs/inter-macro-ta-note-full.pdf)
 
 Teaching assistant for Professor Julieta Caunedo.
