@@ -1,13 +1,14 @@
 ---
-title: "Intermediate Macroeconomic Theory (TA for fall 2024)"
-collection: teaching
-type: "Teaching assistant, Undergraduate course"
-permalink: /teaching/inter-macro-fall2024
+title: "Working paper: FDI and firm distribution"
+collection: research
+type: "working paper"
+permalink: /research/fdi.md
 venue: "Cornell University"
-date: 
+date: 2025-1-1
 location: "Ithaca, New York, US"
 ---
 
-TA note: [full](../pdfs/inter-macro-ta-note-full.pdf)
+Abstract:
 
-Teaching assistant for Professor Julieta Caunedo.
+[Draft](../pdfs/inter-macro-ta-note-full.pdf)
+
