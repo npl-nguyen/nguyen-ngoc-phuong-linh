@@ -8,7 +8,7 @@ venue: "personal website"
 date: 2021-12-30
 location: "Ha Tinh, Viet Nam"
 ---
-[Paper](../pdfs-research/agriculture/agriculture.pdf), [Raw data](../pdfs-research/agriculture/rawdata.xlsx), [Survey & codebook](../pdfs-research/agriculture/survey-codebook.pdf), [Code](https://github.com/npl-nguyen/agriculture).
+[Paper](../pdfs-research/agriculture/agriculture.pdf), [Raw data](../pdfs-research/agriculture/rawdata.xlsx), [Survey & codebook](../pdfs-research/agriculture/survey-codebook.pdf), [Code](https://github.com/npl-nguyen/agriculture)
 
 Abstract: Despite being within the top 5 biggest world exporters of rice, Viet Nam’s farming
 sector has been experiencing low productivity. A typical Vietnamese farm household owns
